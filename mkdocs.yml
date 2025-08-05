@@ -1,0 +1,77 @@
+site_name: ur-first-api
+site_description: 'The documentation for your first API.'
+site_author: 'Dmitriy Dark'
+repo_name: psychosomat/ur-first-api
+repo_url: https://github.com/psychosomat/ur-first-api
+copyright: Copyright &copy; 2025-2026 Dmitriy  Dark
+theme:
+  name: material
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: "teal"
+      accent: "purple"
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: "blue"
+      accent: "lime"
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  features:
+    - content.code.copy
+    - content.code.select
+    - content.tabs.link
+    - header.autohide
+    - navigation.expand
+    - navigation.indexes
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+
+extra:
+  alternate:
+    - name: English
+      link: en/1/1
+      lang: en
+    - name: Русский
+      link: ru/Глава 1/1
+      lang: ru
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/psychosomat
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - footnotes
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
