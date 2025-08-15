@@ -1,5 +1,5 @@
-site_name: ur-first-api
-site_description: 'The documentation for your first API.'
+site_name: Your First API
+site_description: 'Cookbook for your first API.'
 site_author: 'Dmitriy Dark'
 repo_name: psychosomat/ur-first-api
 repo_url: https://github.com/psychosomat/ur-first-api
@@ -22,6 +22,11 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+  font:
+    text: Sans serif
+    code: Roboto Mono
+  icon:
+    logo: material/webhook
   features:
     - content.code.copy
     - content.code.select
