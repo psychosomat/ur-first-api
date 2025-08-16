@@ -45,13 +45,6 @@ theme:
     - toc.follow
 
 extra:
-  alternate:
-    - name: English
-      link: en/1/1
-      lang: en
-    - name: Русский
-      link: ru/Глава 1/1
-      lang: ru
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/psychosomat

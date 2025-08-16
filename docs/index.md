@@ -111,7 +111,7 @@
     <p>Este manual es tu primer paso en el universo ilimitado de las API. No pretende ser una enciclopedia perfecta, pero sirve como una guía práctica que te ayudará a comprender rápidamente los conceptos básicos y comenzar a crear tus propios proyectos. Aquí encontrarás ejemplos reales, explicaciones claras y una pizca de inspiración cósmica.</p>
     <p>El tutorial está dirigido a principiantes, estudiantes y desarrolladores junior (como máximo, de nivel medio). Si notas un error o quieres sugerir mejoras, tanto en el material como en la traducción, estaré encantado de recibir tus comentarios.</p>
     <p><i>La traducción del inglés se realizó con la ayuda de IA y puede contener imprecisiones.</i></p>
-    <a href="/es/Capítulo%201%20-%20Fundamentos%20de%20API/1/">🚀 Ir al tutorial</a>
+    <a href="/es/Capítulo%201%20Fundamentos%20de%20la%20API/1/">🚀 Ir al tutorial</a>
     <hr>
     <h2>☄ Apoya la misión</h2>
     <p>Crear este tutorial es un vuelo largo y complejo que requiere mucho tiempo y energía. Si el material te ha resultado útil, puedes ayudar a rellenar los tanques de combustible de nuestra expedición. Cada apoyo es una órbita más hacia nuevos materiales útiles.</p>
