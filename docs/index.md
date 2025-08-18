@@ -159,7 +159,7 @@
     <p>Ce manuel est votre premier pas dans l'univers infini des API. Il ne prétend pas être une encyclopédie parfaite, mais sert de guide pratique pour vous aider à comprendre rapidement les bases et à commencer à créer vos propres projets. Vous y trouverez des exemples concrets, des explications claires et une pincée d'inspiration cosmique.</p>
     <p>Ce tutoriel s'adresse aux débutants, aux étudiants et aux développeurs juniors (au plus, de niveau intermédiaire). Si vous remarquez une erreur ou si vous souhaitez suggérer des améliorations, tant pour le matériel que pour la traduction, je serai heureux de recevoir vos commentaires.</p>
     <p><i>La traduction de l'anglais a été réalisée à l'aide de l'IA et peut contenir des inexactitudes.</i></p>
-    <a href="/fr/Chapitre%201%20-%20Bases%20de%20l'API/1/">🚀 Aller au tutoriel</a>
+    <a href="/fr/Chapitre%201%20-%20Principes%20fondamentaux%20de%20l%27API/1/">🚀 Aller au tutoriel</a>
     <hr>
     <h2>☄ Soutenez la mission</h2>
     <p>La création de ce tutoriel est un vol long et complexe qui demande beaucoup de temps et d'énergie. Si le matériel vous a été utile, vous pouvez aider à remplir les réservoirs de carburant de notre expédition. Chaque soutien est une autre orbite vers de nouveaux matériaux utiles.</p>
